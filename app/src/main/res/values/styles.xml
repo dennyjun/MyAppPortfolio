@@ -10,18 +10,18 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:width">200dp</item>
         <item name="android:height">55dp</item>
-        <item name="android:background">"@android:color/holo_orange_dark"</item>
+        <item name="android:background">@android:color/holo_orange_dark</item>
         <item name="android:layout_marginTop">10dp</item>
-        <item name="android:textColor">"@android:color/black"</item>
+        <item name="android:textColor">@android:color/black</item>
     </style>
 
     <style name="OrangeAppLaunchButton" parent="@style/AppLaunchButton">
-        <item name="android:background">"@android:color/holo_orange_dark"</item>
-        <item name="android:textColor">"@android:color/black"</item>
+        <item name="android:background">@android:color/holo_orange_dark</item>
+        <item name="android:textColor">@android:color/black</item>
     </style>
 
     <style name="RedAppLaunchButton" parent="@style/AppLaunchButton">
-        <item name="android:background">"@android:color/holo_red_dark"</item>
+        <item name="android:background">@android:color/holo_red_dark</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
 </resources>
